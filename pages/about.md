@@ -21,3 +21,13 @@ Graphic Design, Ceramics, Printmaking, and Watercolor
 All watercolor pieces were done in preparation for her art show "Golden Days". These pieces are all based on memories or photos of Avery and I's childhood, mostly from the years 2009-2014. We are only one year apart, so these memories/pieces are very meaningful to me as well! I am very proud of her and I hope that you enjoy looking through her pieces!
 
 
+
+
+{% include feature/jumbotron.html objectid="ab004" %}
+
+This photo includes Avery (bottom right), me (bottom left), our younger brother (middle), and our two older cousins (top left and right).
+
+
+
+
+
