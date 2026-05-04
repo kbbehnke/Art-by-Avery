@@ -23,9 +23,9 @@ All watercolor pieces were done in preparation for her art show "Golden Days". T
 
 
 
-{% include feature/jumbotron.html objectid="ab004" %}
+{% include feature/image.html objectid="ab004" width="75" caption="This photo includes Avery (bottom right), me (bottom left), our younger brother (middle), and our two older cousins (top left and right)." %}
 
-This photo includes Avery (bottom right), me (bottom left), our younger brother (middle), and our two older cousins (top left and right).
+
 
 
 
